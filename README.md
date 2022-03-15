@@ -3,6 +3,7 @@
 - 🔧 I'm currently working for IBM
 - 🌱 I’m currently learning FPGA programming
 - 📫 Reach me: [twitter.com/kovi](https://twitter.com/kovi)
+- 🇺🇦 [#StandswithUkraine](https://twitter.com/search?q=%23StandswithUkraine)
 
 <!---
 kovagoz/kovagoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
