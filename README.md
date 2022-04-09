@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP development
 - 🔧 I'm currently working for IBM
 - 🌱 I’m currently learning FPGA programming
-- 📫 Reach me: [twitter.com/kovi](https://twitter.com/kovi)
+- 📫 Reach me: [twitter.com/kovi](https://twitter.com/kovi) or [twitter.com/LearningFPGA](https://twitter.com/LearningFPGA)
 - 🇺🇦 [#StandswithUkraine](https://twitter.com/search?q=%23StandswithUkraine)
 
 <!---
