@@ -3,7 +3,7 @@
 - 🔧 Working for IBM as DevOps engineer
 - 📦 Check out my [PHP packages](https://packagist.org/users/kovagoz/packages/)
 - 🌱 Learning FPGA / MCU programming
-- 📫 Reach me at [twitter.com/kovi](https://twitter.com/kovi) or [twitter.com/LearningFPGA](https://twitter.com/LearningFPGA)
+- 📫 Reach me at [twitter.com/kovi](https://twitter.com/kovi) / [twitter.com/LearningFPGA](https://twitter.com/LearningFPGA) / [mastodon.social/@kovi](https://mastodon.social/@kovi)
 - 🇺🇦 [#StandswithUkraine](https://twitter.com/search?q=%23StandswithUkraine)
 
 <!---
